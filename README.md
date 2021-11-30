@@ -17,8 +17,8 @@ See the developer guide and release notes at [https://developers.google.com/assi
 Clone the project and the included frontend as a subdirectory:
 
 ```
-git clone https://github.com/actions-on-google/smart-home-nodejs.git
-git clone https://github.com/actions-on-google/smart-home-frontend.git smart-home-nodejs/frontend
+git clone https://github.com/prasob-cs/smart-home-nodejs.git
+git clone https://github.com/prasob-cs/smart-home-frontend.git smart-home-nodejs/frontend
 cd smart-home-nodejs
 ```
 
